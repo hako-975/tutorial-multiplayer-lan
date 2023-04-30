@@ -248,7 +248,7 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/andri/Unity Project/tutorial-multiplayer-lan/tutorialmultiplayerlan.keystore
+  AndroidKeystoreName: C:/Users/YANTEK - B2TKS/Unity Projects/tutorial-multiplayer-lan/tutorialmultiplayerlan.keystore
   AndroidKeyaliasName: tutorialmultiplayerlan
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
